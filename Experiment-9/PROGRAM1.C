@@ -1,4 +1,4 @@
-/*Q1) Write a C program to perform the opera ons on a Double linked list: 
+/*Q1) Write a C program to perform the operations on a Double linked list: 
 i) Inser on at beginning, ii) Dele on of 1st node iii) display all nodes */
 #include <stdio.h>
 #include <stdlib.h>
