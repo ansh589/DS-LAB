@@ -1,5 +1,5 @@
 /*Q2) Write a C program to perform the operations on a double linked list: 
-i) inser on at end, i) dele on of last node iii) display all the nodes*/
+i) insertt on at end, i) delete on of last node iii) display all the nodes*/
 #include <stdio.h>
 #include <stdlib.h>
 
